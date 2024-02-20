@@ -6,7 +6,7 @@
 - Do not change the `output_template.xlsx` file if unsure.
 - Import `contacts.csv` into Google Contacts.
 
-## Steps to use:
+## Steps for use:
 
 - Ensure you have Python installed and paths to the Python exec and pip added to the Path variable.
 - Clone the repo.
