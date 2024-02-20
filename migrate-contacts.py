@@ -3,8 +3,7 @@ import pandas as pd
 
 os.system('pip install -r requirements.txt')
 
-output_template = pd.read_excel('data/output_template.xlsx')
-output = output_template.copy(deep=True)
+output = pd.read_excel('data/output_template.xlsx')
 inputDf = pd.read_excel('data/enrollees_list.xlsx')
 
 
