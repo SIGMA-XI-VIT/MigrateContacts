@@ -15,3 +15,4 @@
 # Note
 
 - The script will install Pandas if it isn't present.
+- Sample data is populated.
