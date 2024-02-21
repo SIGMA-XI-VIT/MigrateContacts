@@ -2,7 +2,7 @@
 
 ## Guidelines:
 
-- Rename the file containing the list of enrollees to `enrollees_list.xlsx` and place it in `data`.
+- Rename the excel sheet containing the enrollee details to `enrollees_list.xlsx` and place it in `data`.
 - Do not change the `output_template.xlsx` file if unsure.
 - Import `contacts.csv` into Google Contacts.
 
