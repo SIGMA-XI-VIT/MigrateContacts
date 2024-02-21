@@ -8,7 +8,7 @@
 
 ## Steps for use:
 
-- Ensure you have Python installed and paths to the Python exec and pip added to the Path variable.
+- Ensure you have Python installed and added to path.
 - Clone the repo.
 - Run `migrate-contacts.py`
 
